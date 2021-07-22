@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently focusing on **Self Growth and Learning**
 
-- 🌱 I’m currently learning **about Node.js,AWS, React.js and Trading**
+- 🌱 I’m currently learning **about Node.js, AWS, React.js and Trading**
 
-- 📝 I regularly write articles on Finance and Economics [https://esomanipal.wordpress.com/blog/](https://esomanipal.wordpress.com/blog/)
+- 📝 I regularly write articles on Finance and Economics - [https://esomanipal.wordpress.com/blog/](Blog)
 
-- 📫 How to reach me **nileshnj993@gmail.com**
+- 📫 How to reach me - **nileshnj993@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
