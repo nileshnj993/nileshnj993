@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I am Nilesh</h1>
-<h4 align="center">A curious Software Developer from India, with a love for Backend development. Apart from this, I also actively trade in the Stock Market and pen my thoughts on Finance and Economy related topics.</h4>
+<h3 align="center">A curious Software Developer from India, with a love for Backend development. Apart from this, I also actively trade in the Stock Market and pen my thoughts on Finance and Economy related topics.</h4>
 <br> 
 
 
