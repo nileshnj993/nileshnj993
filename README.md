@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **about Node.js, AWS, React.js and Trading**
 
-- 📝 I regularly write articles on Finance and Economics - [https://esomanipal.wordpress.com/blog/](Blog)
+- 📝 I regularly write articles on Finance and Economics - [Blog](https://esomanipal.wordpress.com/blog/)
 
 - 📫 How to reach me - **nileshnj993@gmail.com**
 
