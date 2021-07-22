@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I am Nilesh</h1>
-<h3 align="center">A curious Software Developer from India, with a love for Backend development. Apart from this, I also actively trade in the Stock Market and pen my thoughts on Finance and Economy related topics.</h4>
+<h3 align="center">A curious problem solver from India, with a love for Backend Development. Apart from this, I also actively trade in the Stock Market and pen my thoughts on Finance and Economy related topics.</h4>
 <br> 
 
 
@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **about Node.js, AWS, React.js and Trading**
 
-- 📝 I regularly write articles on Finance and Economics - [Blog](https://esomanipal.wordpress.com/blog/)
+- 📝 I write articles on Finance and Economics - [Blog](https://esomanipal.wordpress.com/blog/)
 
 - 📖 Currently Reading: **Cashflow Quadrant** by Robert Kiyosaki
 
 - 💬 Favourite Quotes: 
 
-   > "Don't work for money. Make it work for you." - Robert Kiyosaki
+   > "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work." - Steve Jobs
 
    > "Follow your most intense obsessions mercilessly." - Franz Kafka
 
