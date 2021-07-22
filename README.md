@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I am Nilesh</h1>
 <h3 align="center">A curious Software Developer from India, with a love for Backend development. Apart from this, I also actively trade in the Stock Market and pen my thoughts on Finance and Economy related topics.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nileshnj993&label=Profile%20views&color=0e75b6&style=flat" alt="nileshnj993" /> </p>
+
 
 - 🔭 I’m currently focusing on **Self Growth and Learning**
 
