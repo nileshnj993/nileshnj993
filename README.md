@@ -13,9 +13,9 @@
 
 - 💬 Favourite Quotes: 
 
-   > "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work." - Steve Jobs
+   > "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work." - **Steve Jobs**
 
-   > "Follow your most intense obsessions mercilessly." - Franz Kafka
+   > "Follow your most intense obsessions mercilessly." - **Franz Kafka**
 
 
 - 📫 How to reach me - **nileshnj993@gmail.com**
