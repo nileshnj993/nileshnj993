@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently focusing on **Self Growth and Learning**
 
-- 🌱 I’m currently learning **about Node.js, AWS, React.js and Trading**
+- 🌱 I’m currently learning **about Node.js, AWS and Trading**
 
 - 📝 I write articles on Finance and Economics - [Blog](https://esomanipal.wordpress.com/blog/)
 
