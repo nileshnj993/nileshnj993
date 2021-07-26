@@ -9,7 +9,7 @@
 
 - 📝 I write articles on Finance and Economics - [Blog](https://esomanipal.wordpress.com/blog/)
 
-- 📖 Currently Reading: **Cashflow Quadrant** by Robert Kiyosaki
+- 📖 Currently Reading: **[Cashflow Quadrant](https://www.amazon.in/Rich-Dads-Cashflow-Quadrant-Financial/dp/1612680062/ref=sr_1_1?dchild=1&keywords=cashflow+quadrant&qid=1627316917&sr=8-1P)** by Robert Kiyosaki
 
 - 💬 Favourite Quotes: 
 
