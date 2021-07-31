@@ -25,9 +25,7 @@
 <a href="https://twitter.com/nileshnj993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nileshnj993" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nilesh-jain-59137916a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nileshnj/" height="30" width="40" /></a>
 <a href="https://instagram.com/njeyepatch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="njeyepatch" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/njeyepatch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="njeyepatch" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nilesnj993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nilesnj993" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/nileshnj993/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nileshnj993/profile" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
