@@ -17,6 +17,7 @@
 
    > "Follow your most intense obsessions mercilessly." - **Franz Kafka**
 
+- :chart_with_upwards_trend: [My Resume](https://drive.google.com/file/d/1g7LAOiD_xLKh2AqnsY0HS5_bXJLdqGLU/view?usp=sharing) 
 
 - 📫 How to reach me - **nileshnj993@gmail.com**
 <br> 
