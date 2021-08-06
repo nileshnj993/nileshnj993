@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **about Node.js, AWS and Trading**
 
-- 📝 I write articles on Finance and Economics - [Blog](https://esomanipal.wordpress.com/blog/)
+- 📝 I write articles on Finance and Economics - **[Blog](https://esomanipal.wordpress.com/blog/)**
 
 - 📖 Currently Reading: **[Cashflow Quadrant](https://www.amazon.in/Rich-Dads-Cashflow-Quadrant-Financial/dp/1612680062/ref=sr_1_1?dchild=1&keywords=cashflow+quadrant&qid=1627316917&sr=8-1P)** by Robert Kiyosaki
 
@@ -17,7 +17,7 @@
 
    > "Follow your most intense obsessions mercilessly." - **Franz Kafka**
 
-- :chart_with_upwards_trend: [My Resume](https://drive.google.com/file/d/1g7LAOiD_xLKh2AqnsY0HS5_bXJLdqGLU/view?usp=sharing) 
+- :chart_with_upwards_trend: **[My Resume]**(https://drive.google.com/file/d/1g7LAOiD_xLKh2AqnsY0HS5_bXJLdqGLU/view?usp=sharing) 
 
 - 📫 How to reach me - **nileshnj993@gmail.com**
 <br> 
