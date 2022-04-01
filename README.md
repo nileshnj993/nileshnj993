@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently focusing on **Self Growth and Learning**
 
-- 🌱 I’m currently learning **about Blockchain Development**
+- 🌱 I’m currently learning **about GCP**
 
 - 📝 I write articles on Finance and Economics - **[Blog](https://esomanipal.wordpress.com/blog/)**
 
