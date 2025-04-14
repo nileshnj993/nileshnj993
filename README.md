@@ -4,7 +4,7 @@
 <br> 
 
 - 🌱 I'm a 2022 graduate with a B. Tech in Computer and Communication Engineering from [Manipal Institute Of Technology](https://www.manipal.edu/mit.html).
-- 👨‍💻 I then worked as a Software Development Engineer for about 3 years at [Sabre Corporation](https://www.sabre.com/). Most of my work involved Spring Boot, Java, GCP, API Design and automating CI/CD pipelines.
+- 👨‍💻 I made travel happen as a Software Development Engineer at [Sabre Corporation](https://www.sabre.com/). Most of my work involved Spring Boot, Java, GCP, API Design and automating CI/CD pipelines.
 - 📝 I am currently pursuing my Master of Information Technology at [The University of Melbourne](https://www.unimelb.edu.au/). I will be completing this course in December 2026 with a specialization in AI.
 
 - 🔭 Beginning my journey into Generative AI and Deep Learning — figuring things out as the world moves deeper into the AI era. I am also looking into ways I can use open-weight models to make everyday tasks smarter and more efficient.
