@@ -7,7 +7,7 @@
 - 👨‍💻 I made travel happen as a Software Development Engineer at [Sabre Corporation](https://www.sabre.com/). Most of my work involved Spring Boot, Java, GCP, API Design and automating CI/CD pipelines.
 - 📝 I am currently pursuing my Master of Information Technology at [The University of Melbourne](https://www.unimelb.edu.au/). I will be completing this course in December 2026 with a specialization in AI.
 
-- 🔭 Beginning my journey into Generative AI and Deep Learning — figuring things out as the world moves deeper into the AI era. I am also looking into ways I can use open-weight models to make everyday tasks smarter and more efficient.
+- 🔭 Beginning my journey into Generative AI and Deep Learning — figuring things out as the world moves into the AI era. I am also looking into ways I can use open-weight models to make everyday tasks smarter and more efficient.
 - ⚡ Outside of tech, I enjoy playing the ukulele, reading manga, and coping with the emotional rollercoaster that is Manchester United.
 
 - 📖 Currently Reading: [Akira Volume 4](https://www.amazon.com.au/Akira-4-Katsuhiro-Otomo/dp/193542906X/ref=pd_sbs_d_sccl_2_4/358-7387611-1660631?pd_rd_w=6UnaE&content-id=amzn1.sym.ae8439ba-7e91-4b6d-8a6e-bd32d75c1366&pf_rd_p=ae8439ba-7e91-4b6d-8a6e-bd32d75c1366&pf_rd_r=738X0X1W7JNBXB4FC4DB&pd_rd_wg=fGAQi&pd_rd_r=354b308b-058f-454c-ace2-97065f3f1156&pd_rd_i=193542906X&psc=1)
