@@ -12,7 +12,7 @@
 
 - 📖 Currently Reading: [Akira Volume 4](https://www.amazon.com.au/Akira-4-Katsuhiro-Otomo/dp/193542906X/ref=pd_sbs_d_sccl_2_4/358-7387611-1660631?pd_rd_w=6UnaE&content-id=amzn1.sym.ae8439ba-7e91-4b6d-8a6e-bd32d75c1366&pf_rd_p=ae8439ba-7e91-4b6d-8a6e-bd32d75c1366&pf_rd_r=738X0X1W7JNBXB4FC4DB&pd_rd_wg=fGAQi&pd_rd_r=354b308b-058f-454c-ace2-97065f3f1156&pd_rd_i=193542906X&psc=1)
 
-- 📄 **[My Resume]([https://drive.google.com/file/d/1g7LAOiD_xLKh2AqnsY0HS5_bXJLdqGLU/view?usp=sharing](https://www.linkedin.com/in/nileshnj/overlay/1721110159984/single-media-viewer/?profileId=ACoAAChG-v0B9Z4uKlw0qgfwmVTG0wVmD9FaZK0))** 
+- 📄 **[My Resume](https://www.linkedin.com/in/nileshnj/overlay/1721110159984/single-media-viewer/?profileId=ACoAAChG-v0B9Z4uKlw0qgfwmVTG0wVmD9FaZK0)** 
 
 - 📫 How to reach me - **nileshnj993@gmail.com**
 <br> 
