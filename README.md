@@ -1,21 +1,13 @@
 <h1 align="center">Hey there 👋, I am Nilesh</h1>
-<h3 align="center">A curious problem solver from India, with a love for Backend Development. Apart from this, I also actively trade in the Stock Market and pen my thoughts on Finance and Economy related topics.</h4>
-<br> 
 
+<h3 align="center">I love writing clean, efficient code and tackling complex challenges. </h4>
+<br> 
 
 - 🔭 I’m currently focusing on **Self Growth and Learning**
 
 - 🌱 I’m currently learning **about GCP**
 
-- 📝 I write articles on Finance and Economics - **[Blog](https://esomanipal.wordpress.com/blog/)**
-
 - 📖 Currently Reading: **[Cashflow Quadrant](https://www.amazon.in/Rich-Dads-Cashflow-Quadrant-Financial/dp/1612680062/ref=sr_1_1?dchild=1&keywords=cashflow+quadrant&qid=1627316917&sr=8-1P)** by Robert Kiyosaki
-
-- 💬 Favourite Quotes: 
-
-   > "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work." - **Steve Jobs**
-
-   > "Follow your most intense obsessions mercilessly." - **Franz Kafka**
 
 - :chart_with_upwards_trend: **[My Resume](https://drive.google.com/file/d/1g7LAOiD_xLKh2AqnsY0HS5_bXJLdqGLU/view?usp=sharing)** 
 
@@ -23,9 +15,7 @@
 <br> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nileshnj993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nileshnj993" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nilesh-jain-59137916a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nileshnj/" height="30" width="40" /></a>
-<a href="https://instagram.com/njeyepatch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="njeyepatch" height="30" width="40" /></a>
 
 </p>
 
